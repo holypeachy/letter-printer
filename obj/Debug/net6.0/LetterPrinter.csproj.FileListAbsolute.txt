@@ -1,0 +1,15 @@
+E:\Code\VS Code Projects\LetterPrinter\bin\Debug\net6.0\LetterPrinter.exe
+E:\Code\VS Code Projects\LetterPrinter\bin\Debug\net6.0\LetterPrinter.deps.json
+E:\Code\VS Code Projects\LetterPrinter\bin\Debug\net6.0\LetterPrinter.runtimeconfig.json
+E:\Code\VS Code Projects\LetterPrinter\bin\Debug\net6.0\LetterPrinter.dll
+E:\Code\VS Code Projects\LetterPrinter\bin\Debug\net6.0\LetterPrinter.pdb
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.csproj.AssemblyReference.cache
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.AssemblyInfoInputs.cache
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.AssemblyInfo.cs
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.csproj.CoreCompileInputs.cache
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.dll
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\refint\LetterPrinter.dll
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.pdb
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\LetterPrinter.genruntimeconfig.cache
+E:\Code\VS Code Projects\LetterPrinter\obj\Debug\net6.0\ref\LetterPrinter.dll
