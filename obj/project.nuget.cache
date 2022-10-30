@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uUz6wiO9hBtR2RbqI6BoIkxbhgPSymAwzkzMBo7KlmzaI3ttDLHsbXnqNUsSQDXE6D0anE47ggqjA5TeOScqgQ==",
+  "dgSpecHash": "oMasiBdkvLVJz7kvDRPL7tCdYUJ0xseGTRZn+TDEkvAwd2B6XJSk4GDq0iTvqVhURIKfO89MWFRr0aV6NeT/5w==",
   "success": true,
   "projectFilePath": "E:\\Code\\VS Code Projects\\LetterPrinter\\LetterPrinter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.10\\microsoft.netcore.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x64.6.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
