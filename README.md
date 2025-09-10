@@ -16,5 +16,4 @@ dotnet run
 ```
 
 ## 📤 Output Example:
-### Play Screen
 <img width="789" height="421" alt="image" src="https://github.com/user-attachments/assets/b4f29085-3dc4-4153-9138-6c610aa2ded3" />
