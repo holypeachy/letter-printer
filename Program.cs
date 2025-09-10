@@ -48,7 +48,7 @@
 		{
 			bool valid = true;
 
-			Console.WriteLine("-----LetterPrinter 0.2 | Made by HolyPeach-----\n");
+			Console.WriteLine("-----LetterPrinter 0.3 | Made by HolyPeach-----\n");
 			Console.WriteLine("!!!--Input can be Alphanumeric, spaces, and underscores-----");
 			Console.WriteLine("!!!--If the characters don't appear correctly resize the console or enter a shorter string-----\n");
 			Console.Write("Enter the string to convert: ");
